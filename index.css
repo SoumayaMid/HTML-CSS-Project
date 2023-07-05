@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.maliste1 li {
+    display: inline;
+    font-size: 20px;
+         
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    background-color: blueviolet;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       
+}
+
+
+li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    padding: 15px;
+   
+    
+    
+    
+}
+#folio{
+    font-size: 50px;
+    font-family: forte;
+    padding-right: 200px;
+}
+
+
+h2{
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+main{
+    height: 670px;
+}
+
+video{
+    padding-left: 10px;
+}
+#apropos{
+    border: 1px solid grey;
+    border-radius: 5%;
+    background-color: aliceblue;
+    width: 30%;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#travail{
+    border: 1px solid grey;
+    border-radius: 5%;
+    background-color: aliceblue;
+    width: 30%; 
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#cv{
+    border: 1px solid grey;
+    border-radius: 5%;
+    background-color: aliceblue;
+    width: 30%;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+#contact{
+    border: 1px solid grey;
+    border-radius: 5%;
+    background-color: aliceblue;
+    width:30%;
+    float: left;
+    margin: 5px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button{
+    margin-left: 250px;
+}
+footer{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding: 50px;
+    padding-left: 400px;
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+#apropos a{
+    text-decoration: none;
+}
+img{
+    width:250px;
+    float: right;
+    position: sticky;
+    top: 0;
+    border: 10px solid grey;
+    border-radius: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
